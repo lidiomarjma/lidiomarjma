@@ -31,7 +31,7 @@ Olá! Eu me chamo Lidiomar JM Alves, sou entusiasta por tecnologia, tenho 34 ano
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -41,22 +41,29 @@ Olá! Eu me chamo Lidiomar JM Alves, sou entusiasta por tecnologia, tenho 34 ano
 </p>
 
 ---
+
 ### 📊 Estatísticas
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/lidiomarjma">
-        <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=lidiomarjma&theme=tokyonight&locale=pt-br" alt="Sequência de Commits" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/lidiomarjma">
-        <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lidiomarjma&theme=tokyonight&langs_count=5&locale=pt-br" alt="Linguagens mais usadas" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/lidiomarjma">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lidiomarjma&theme=tokyonight&locale=pt-br" alt="Sequência de Commits" />
+  </a>
+  <a href="https://github.com/lidiomarjma">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lidiomarjma&theme=tokyonight&layout=compact&langs_count=4&locale=pt-br" alt="Linguagens mais usadas" />
+  </a>
+</p>
+
+---
+
+### 🐍 Gráfico de Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lidiomarjma/lidiomarjma/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lidiomarjma/lidiomarjma/output/github-contribution-grid-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/lidiomarjma/lidiomarjma/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
